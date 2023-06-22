@@ -39,3 +39,5 @@ The output of the algorithm consists of an animation of the evolution of the sol
 Copyright © 2023 Dragoș Manea. All rights reserved.
 
 The author wants to thank [COST Action CA18232 - _Mathematical models for interacting dynamics on networks_](https://mat-dyn-net.eu/) for supporting this work.
+
+The author also acknowledges the hospitality of the [Chair for Dynamics, Control, Machine Learning and Numerics](https://dcn.nat.fau.eu/) in the Department of Mathematics, [FAU Erlangen-Nürnberg](https://www.fau.de/), where part of this work was carried out.
