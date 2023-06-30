@@ -16,7 +16,7 @@ Here, $V_{\rm int}$ stands for the set of interior vertices, and the set of boun
 
 $$\sum_{e\in E_v^{\rm in}} \alpha_e = \sum_{e\in E_v^{\rm out}} \alpha_e.$$
 
-The finite differnece scheme is stable provided that the the time step $\tau$ and the width of the spatial discretisation $h$ satisfy $\tau <\frac{h}{\max_{e\in E}\alpha_e}$.
+The finite difference scheme is stable provided that the the time step $\tau$ and the width of the spatial discretisation $h$ satisfy $\tau <\frac{h}{\max_{e\in E}\alpha_e}$.
 The convergence of the finite difference scheme is $\mathcal{O}(\tau+h)$ for regular enough initial and boundary data.
 
 
