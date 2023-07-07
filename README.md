@@ -32,9 +32,9 @@ matplotlib
 
 ### The plot of the solution
 
-The output of the algorithm consists of an animation of the evolution of the solution:
+The output of the algorithm consists of an animation of the evolution of the solution (the height of the coloured line above a point of the graph on ``the floor'' represents the value of the solution in that particular point):
 
-![An example of output](./plot_graph.png)
+![An example of output](./output_graph.gif)
 
 Copyright © 2023 Dragoș Manea. All rights reserved.
 
